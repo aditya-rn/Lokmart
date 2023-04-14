@@ -1,0 +1,17 @@
+export const themeColors = {
+  primaryBlack: '#303733',
+  primaryColor: '#FF8B38',
+  primaryColorDark: '#FA662E',
+  primaryBackground: 'white',
+  primaryGray: '#7D8FAB',
+  primaryGrayLight: '#E8ECF2',
+  ratingStarColor: '#FFC107',
+  activeDotColor1: '#FF8B38',
+  activeDotColor2: '#F3664B',
+  inactiveDotColor1: '#BFC9DA',
+  inputbarIcon: '#7D8FAB',
+  inputbarBackgroundColor: '#E8ECF2',
+  invalidField: 'red',
+  invalidFieldBackgroundColor: 'lightcoral',
+  primarySuccessColor: '#027335',
+};
